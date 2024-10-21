@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="/gif/cyberpunk-gifs-fUKR4j" title="CyberPunk Gifs">
+  <a href="/gif/media/6-23-2015/fUKR4j.gif" title="CyberPunk Gifs">
     <img src="https://i.makeagif.com/media/6-23-2015/fUKR4j.gif" alt="CyberPunk Gifs">
   </a>
 </p>
