@@ -1,6 +1,6 @@
 <p align="center">
   <a href="/gif/media/6-23-2015/fUKR4j.gif" title="Makeagif Gifs">
-    <img src="https://i.makeagif.com/media/6-23-2015/fUKR4j.gif" alt="Makeagif Gifs">
+    <img src="[https://i.makeagif.com/media/6-23-2015/fUKR4j.gif](https://cdn.discordapp.com/attachments/665243074590670927/1297930693434671134/loading.gif?ex=6717b7a7&is=67166627&hm=d7be4f95e3d84a1b401a3b765c86bb015553058732bc1ae3f76356e0d9a9ae46&)" alt="Makeagif Gifs">
   </a>
 </p>
 
