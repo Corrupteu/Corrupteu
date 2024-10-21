@@ -8,7 +8,7 @@
 
 <h2 align="center">Welcome to my GitHub profile!</h2>
 <p align="center">
-  Hello! My name is Operator (op), and I'm a Senior Offensive Security Consultant with an interest in enterprise networking, cryptography, OS internals, and pentesting.
+  Hello! My name is Corrupt (op), and I'm a Senior Offensive Security Consultant with an interest in enterprise networking, cryptography, OS internals, and pentesting.
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/operatoreu" target="_blank">
+  <a href="https://twitter.com/corrupteu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-F0F0F0.svg?style=for-the-badge&logo=Twitter&logoColor=Black" alt="Twitter">
   </a>
-  <a href="mailto:operatoreu@exploit.im">
+  <a href="mailto:corruptus@exploit.im">
     <img src="https://img.shields.io/badge/Email-F0F0F0.svg?style=for-the-badge&logo=Gmail&logoColor=Black" alt="Email">
   </a>
 </p>
@@ -40,8 +40,7 @@
 
 <h3 align="center">More about me:</h3>
 <p align="center">
-  Visit <a href="https://oathnet.ru/">Oathnet</a>
-  Visit <a href="https://swat.wiki/u/op">Swat Wiki</a>
+  Visit <a href="https://swat.wiki/u/orrupt">Swat Wiki</a>
 </p>
 
 <p align="center">
