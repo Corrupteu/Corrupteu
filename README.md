@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/corrupteu" target="_blank">
+  <a href="https://twitter.com/corrupteuxyz" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-F0F0F0.svg?style=for-the-badge&logo=Twitter&logoColor=Black" alt="Twitter">
   </a>
   <a href="mailto:corruptus@exploit.im">
