@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="/gif/media/6-23-2015/fUKR4j.gif" title="CyberPunk Gifs">
-    <img src="https://i.makeagif.com/media/6-23-2015/fUKR4j.gif" alt="CyberPunk Gifs">
+  <a href="/gif/media/6-23-2015/fUKR4j.gif" title="Makeagif Gifs">
+    <img src="https://i.makeagif.com/media/6-23-2015/fUKR4j.gif" alt="Makeagif Gifs">
   </a>
 </p>
 
