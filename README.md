@@ -8,7 +8,7 @@
 
 <h2 align="center">Welcome to my GitHub profile!</h2>
 <p align="center">
-  Hello! My name is Corrupt (op), and I'm a Senior Offensive Security Consultant with an interest in enterprise networking, cryptography, OS internals, and pentesting.
+  Hello! My name is Corrupt, and I'm a Senior Offensive Security Consultant with an interest in enterprise networking, cryptography, OS internals, and pentesting.
 </p>
 
 <p align="center">
